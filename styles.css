@@ -33,6 +33,15 @@ body {
     flex-wrap: wrap;
 }
 
+.b1 {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 90px;
+    height: 25px;
+  }
+
 .text {
     flex-basis: 30%;
     padding: 30px;
